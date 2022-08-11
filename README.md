@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cindyaerdts
-- 👀 I’m interested in developin, photography, reading, walking in nature 
+- 👀 I’m interested in developing, photography, reading, walking in nature 
 - 🌱 I’m currently learning Phyton
 
 
